@@ -11,14 +11,14 @@ def draw_circle(some_turtle):
         
 def draw_art():
     window = turtle.Screen()
-    window.bgcolor("blue")
+    window.bgcolor("black")
     #Create the turtle brad - Draws a square
     brad = turtle.Turtle()
-    brad.shape("turtle")
-    brad.color("white")
+    brad.shape("arrow")
+    brad.color("green", "red", "white")
     brad.speed(1)
     for i in range(1,37):
-        draw_circle(brad)
+        draw_square(brad)
         brad.right(10)
         
     window.exitonclick()

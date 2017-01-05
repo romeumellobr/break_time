@@ -1,4 +1,4 @@
-# [Programming Foundations with Python](https://classroom.udacity.com/courses/ud036) 
+# [Programming Foundations with Python] 
 ```
 - Break Time
 - Walk the Turtle
@@ -6,5 +6,5 @@
 - Check Profanity
 - Movie Trailer Website
 
-#### **Udacity link:**
-#### [https://classroom.udacity.com/courses/ud036]
+#### **Udacity course URL:**
+#### [https://classroom.udacity.com/courses/ud036] (https://classroom.udacity.com/courses/ud036)

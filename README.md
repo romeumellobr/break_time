@@ -1,2 +1,7 @@
-# break_time
-``Programming Foundations with Python``
+# Programming Foundations with Python 
+```
+- Break Time
+- Walk the Turtle
+- Twilio SMS 
+- Check Profanity
+- Movie Trailer Website

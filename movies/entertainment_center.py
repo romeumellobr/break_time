@@ -18,4 +18,5 @@ matrix = media.Movie("Matrix",
                      "https://www.youtube.com/watch?v=m8e-FF8MsqU",
                      )
 movies = [toy_story, avatar, matrix]
-fresh_tomatoes.open_movies_page(movies)
+#fresh_tomatoes.open_movies_page(movies)
+print(media.Movie.__module__.__doc__)
